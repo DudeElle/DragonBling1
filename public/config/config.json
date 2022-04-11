@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x8855ec14439ec03aa45d11389917ca5d6cbf6c96",
+  "SCAN_LINK": "https://polygonscan.com/address/0x8855ec14439ec03aa45d11389917ca5d6cbf6c96",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Dragon Bling",
+  "SYMBOL": "DB",
+  "MAX_SUPPLY": 5000,
+  "WEI_COST": 186000000000000000000,
+  "DISPLAY_COST": 186,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/dragonbling",
+  "SHOW_BACKGROUND": true
+}
