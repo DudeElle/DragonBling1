@@ -10,7 +10,7 @@
   "SYMBOL": "DB",
   "MAX_SUPPLY": 5000,
   "WEI_COST": 60000000000000000000,
-  "DISPLAY_COST": 330,
+  "DISPLAY_COST": 60,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/dragonbling",
